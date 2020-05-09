@@ -10,3 +10,5 @@ CWRU Data Analytics Bootcamp - JavaScript HW
 ---------------------------
 
 ## Contents
+* <b>/UFO-level-1/</b> - Contains Index.html, app.js, data.js, CSS and site image sources for part 1 of the project (Filtering UFO sightings table by date field)
+* <b>/UFO-level-2/</b> - Contains Index.html, app.js, data.js, CSS and site image sources for part 2 of the project (Filtering UFO sightings table by multiple fields)
